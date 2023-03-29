@@ -9,6 +9,10 @@ public class javaProgram2 {
             this.name =  name;
     }
     public static void main(String rag[]){
+        int id = 1;
+        int number = 121;
+        String name = "sachin";
+      javaProgram2 obj = new javaProgram2(id,number,name);
       
     }    
 }
