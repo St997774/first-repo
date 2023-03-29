@@ -17,5 +17,6 @@ public class javaProgram2 {
         String name = "sachin";
       javaProgram2 obj = new javaProgram2(id,number,name);
         obj.getDetails();
+        System.out.println("************");
     }    
 }
